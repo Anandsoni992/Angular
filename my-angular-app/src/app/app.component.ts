@@ -7,5 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   message: string = "Hello from BridgeLabz";  
-  logoPath: string = "E:/Capg/Angular/my-angular-app/public/BL_logo_square_jpg.jpg";  
+  logoPath: string = "./assets/BL_logo_square_jpg.jpg";  
 }
